@@ -20,7 +20,10 @@
 ![image](https://user-images.githubusercontent.com/33472924/131212599-fb122f1c-c9f8-4ada-866a-19e4cacdd8f3.png)
 
 > 如果加载配置之后使用没反应，则去到配置文件夹中，重新安装一遍 npm 的依赖即可成功使用。
+> 
 > 该项目使用 pnpm 管理依赖，你也可以删掉 lock 文件选择你喜欢的依赖管理工具。
+> 
 > **alfy** 只能使用 0.6.0 版本的，因为高版本需要使用 ESM 作为运行时。
+> 
 > ![image](https://user-images.githubusercontent.com/33472924/131212900-c49e0f77-43d3-4ee5-90e9-5d0845b2c98c.png)
 
