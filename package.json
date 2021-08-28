@@ -1,10 +1,13 @@
 {
-  "name": "todo-list",
-  "version": "1.0.0",
+  "name": "todo-alfred-workflow",
+  "version": "0.1.0",
   "description": "Alfred Todo List workflows by Node.JS.",
-  "main": "index.js",
-  "author": "LaamGinghong",
+  "author": {
+    "name": "LaamGinghong",
+    "email": "laamginghong1996@qq.com"
+  },
   "license": "MIT",
+  "homepage": "https://github.com/LaamGinghong/todo-alfred-workflow",
   "dependencies": {
     "@types/fs-extra": "^9.0.12",
     "alfy": "^0.6.0",
