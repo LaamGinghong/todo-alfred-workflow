@@ -1,0 +1,15 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Alfred Todo List workflows by Node.JS.",
+  "main": "index.js",
+  "author": "LaamGinghong",
+  "license": "MIT",
+  "dependencies": {
+    "@types/fs-extra": "^9.0.12",
+    "alfy": "^0.6.0",
+    "dayjs": "^1.10.6",
+    "fs-extra": "^10.0.0",
+    "run-node": "^2.0.0"
+  }
+}
