@@ -6,7 +6,7 @@ let id = require("./id.json");
 const keyword = process.argv[2];
 
 (function () {
-  const date = dayjs(new Date()).format("YYYY-MM-DD hh:mm");
+  const date = dayjs(new Date()).format("YYYY-MM-DD HH:mm");
   id += 1;
 
   alfy.output([
