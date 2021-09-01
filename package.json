@@ -1,6 +1,6 @@
 {
   "name": "todo-alfred-workflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Alfred Todo List workflows by Node.JS.",
   "author": {
     "name": "LaamGinghong",
